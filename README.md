@@ -23,4 +23,5 @@ Run the scripts:
   python classification.py
 ```
 
-Notes: Datasets are not included. Add your own GasProperties.csv and emails.csv files to the same directory to run the code.
+Note: Datasets are **not included** in this repository.  
+> Please provide your own **`GasProperties.csv`** and **`emails.csv`** files in the same directory to run the code.
